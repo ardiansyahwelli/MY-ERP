@@ -1,0 +1,290 @@
+[05-Oct-2021 12:04:54 Europe/Berlin] 0::login.php:112:[before upgrade] count(): Parameter must be an array or an object that implements Countable
+[05-Oct-2021 15:25:18 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:25:18 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:29:33 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:29:33 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:29:42 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:29:42 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:38:01 Europe/Berlin] 0:accountant:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:38:01 Europe/Berlin] 0:accountant:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:38:12 Europe/Berlin] 0:accountant:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:38:12 Europe/Berlin] 0:accountant:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:41:05 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[05-Oct-2021 15:41:05 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 03:32:28 Europe/Berlin] 0:administrator:renderer.php:103: Unhandled exception [0]: syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'.
+[06-Oct-2021 06:10:13 Europe/Berlin] 0:administrator:renderer.php:221: Unhandled exception [0]: syntax error, unexpected 'elseif' (T_ELSEIF).
+[06-Oct-2021 06:10:22 Europe/Berlin] 0:administrator:renderer.php:221: Unhandled exception [0]: syntax error, unexpected 'elseif' (T_ELSEIF).
+[06-Oct-2021 06:29:05 Europe/Berlin] 0:administrator:renderer.php:262: Unhandled exception [0]: syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST).
+[06-Oct-2021 08:33:03 Europe/Berlin] 0:administrator:ui_controls.inc:114: Unhandled exception [0]: Call to undefined function start_table().
+[06-Oct-2021 08:46:26 Europe/Berlin] 0:administrator:ui_controls.inc:362: Unhandled exception [0]: Call to undefined function start_row().
+[06-Oct-2021 11:51:58 Europe/Berlin] 0:administrator:ui_input.inc:930: Unhandled exception [0]: Too few arguments to function textarea_row(), 4 passed in C:\xampp\htdocs\FA\purchasing\includes\ui\po_ui.inc on line 200 and at least 5 expected.
+[06-Oct-2021 12:12:52 Europe/Berlin] 0:administrator:po_entry_items.php:171: Unhandled exception [0]: Call to a member function some_already_received() on null.
+[06-Oct-2021 12:12:57 Europe/Berlin] 0:administrator:po_entry_items.php:171: Unhandled exception [0]: Call to a member function some_already_received() on null.
+[06-Oct-2021 12:13:00 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:13:00 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:16:43 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:16:43 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:17:24 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:17:24 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:17:52 Europe/Berlin] 0:administrator:po_db.inc:29: Creating default object from empty value
+[06-Oct-2021 12:17:52 Europe/Berlin] 0:administrator:po_db.inc:41: Unhandled exception [0]: Call to undefined method stdClass::set_supplier().
+[06-Oct-2021 12:17:56 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:17:56 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:23:24 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:23:24 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:24:08 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:24:08 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:25:03 Europe/Berlin] 0:administrator:ui_input.inc:354: Unhandled exception [0]: syntax error, unexpected 'echo' (T_ECHO).
+[06-Oct-2021 12:25:23 Europe/Berlin] 0:administrator:ui_input.inc:354: Unhandled exception [0]: syntax error, unexpected 'echo' (T_ECHO).
+[06-Oct-2021 12:25:37 Europe/Berlin] 0:administrator:ui_input.inc:354: Unhandled exception [0]: syntax error, unexpected 'echo' (T_ECHO).
+[06-Oct-2021 12:26:18 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:26:18 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:28:32 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:28:32 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:28:47 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:28:47 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:28:51 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:28:51 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:31:16 Europe/Berlin] 0:administrator:ui_lists.inc:429: Invalid argument supplied for foreach()
+[06-Oct-2021 12:32:21 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:32:21 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:32:34 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:32:34 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[06-Oct-2021 12:32:40 Europe/Berlin] 0:administrator:ui_lists.inc:429: Invalid argument supplied for foreach()
+[06-Oct-2021 12:35:43 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging Ayam','','Daging Ayam','M','4010','5010','1510','5040','1530','0','0','0','0')<br><br><br>
+[06-Oct-2021 12:35:47 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging Ayam','','Daging Ayam','M','4010','5010','1510','5040','1530','0','0','0','0')<br><br><br>
+[06-Oct-2021 12:37:51 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging','','Daging Ayam','M','4010','5010','1510','5040','1530','0','0','1','1')<br><br><br>
+[06-Oct-2021 12:40:35 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('aa','','Daging Ayam','M','4010','5010','1510','5040','1530','0','0','0','0')<br><br><br>
+[06-Oct-2021 12:40:49 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('anjing lah','','Daging Ayam','M','4010','5010','1510','5040','1530','0','0','0','0')<br><br><br>
+[06-Oct-2021 12:46:05 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging','','Daging Ayam','M','4010','5010','1510','5040','1530','0','0','0','0')<br><br><br>
+[06-Oct-2021 13:19:05 Europe/Berlin] 0:administrator:ui_lists.inc:429: Invalid argument supplied for foreach()
+[06-Oct-2021 13:20:01 Europe/Berlin] 0:administrator:ui_lists.inc:429: Invalid argument supplied for foreach()
+[07-Oct-2021 00:06:18 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): SSL: An existing connection was forcibly closed by the remote host.
+
+[07-Oct-2021 00:06:18 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: HTTP request failed!
+[07-Oct-2021 04:08:53 Europe/Berlin] 0:administrator:renderer.php:201: Unhandled exception [0]: syntax error, unexpected '"', expecting ',' or ';'.
+[07-Oct-2021 04:56:32 Europe/Berlin] 0:administrator:dashboard.inc:202: Unhandled exception [0]: Call to undefined function get_num_customers().
+[07-Oct-2021 04:58:30 Europe/Berlin] 0:administrator:dashboard.inc:190: Unhandled exception [0]: syntax error, unexpected 'echo' (T_ECHO).
+[07-Oct-2021 05:11:12 Europe/Berlin] 0:administrator:dashboard.inc:198: Unhandled exception [0]: Call to undefined function td().
+[07-Oct-2021 05:54:08 Europe/Berlin] 0:administrator:dashboard.inc:202: Unhandled exception [0]: Call to undefined function gget_num_branches().
+[07-Oct-2021 06:13:23 Europe/Berlin] 0:administrator:dashboard.inc:446: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:13:28 Europe/Berlin] 0:administrator:dashboard.inc:446: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:15:49 Europe/Berlin] 0:administrator:dashboard.inc:446: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:16:02 Europe/Berlin] 0:administrator:dashboard.inc:446: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:16:46 Europe/Berlin] 0:administrator:dashboard.inc:450: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:17:45 Europe/Berlin] 0:administrator:dashboard.inc:449: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:17:52 Europe/Berlin] 0:administrator:dashboard.inc:449: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:18:20 Europe/Berlin] 0:administrator:dashboard.inc:449: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:19:46 Europe/Berlin] 0:administrator:dashboard.inc:453: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:20:11 Europe/Berlin] 0:administrator:dashboard.inc:453: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:20:24 Europe/Berlin] 0:administrator:dashboard.inc:453: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:20:28 Europe/Berlin] 0:administrator:dashboard.inc:453: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:20:36 Europe/Berlin] 0:administrator:dashboard.inc:453: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:21:12 Europe/Berlin] 0:administrator:dashboard.inc:449: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 06:21:39 Europe/Berlin] 0:administrator:dashboard.inc:449: Unhandled exception [0]: Call to undefined function start_startbody().
+[07-Oct-2021 15:14:52 Europe/Berlin] 0:administrator:ui_lists.inc:246: Unhandled exception [0]: syntax error, unexpected 'select2' (T_STRING).
+[07-Oct-2021 15:15:02 Europe/Berlin] 0:administrator:ui_lists.inc:246: Unhandled exception [0]: syntax error, unexpected 'select2' (T_STRING).
+[07-Oct-2021 15:15:12 Europe/Berlin] 0:administrator:ui_lists.inc:246: Unhandled exception [0]: syntax error, unexpected 'select2' (T_STRING).
+[07-Oct-2021 15:15:16 Europe/Berlin] 0:administrator:ui_lists.inc:246: Unhandled exception [0]: syntax error, unexpected 'select2' (T_STRING).
+[07-Oct-2021 17:53:14 Europe/Berlin] 0:administrator:renderer.php:349: Unhandled exception [0]: Class 'graph' not found.
+[07-Oct-2021 17:53:19 Europe/Berlin] 0:administrator:renderer.php:408: Unhandled exception [0]: Class 'graph' not found.
+[07-Oct-2021 17:55:51 Europe/Berlin] 0:administrator:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[07-Oct-2021 17:55:59 Europe/Berlin] 0:administrator:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[07-Oct-2021 17:56:00 Europe/Berlin] 0:administrator:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[07-Oct-2021 17:56:05 Europe/Berlin] 0:administrator:xpMenu.class.php:28: Methods with the same name as their class will not be constructors in a future version of PHP; xpMenu has a deprecated constructor
+[08-Oct-2021 13:17:12 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[08-Oct-2021 13:17:28 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[08-Oct-2021 13:27:07 Europe/Berlin] 0:administrator:renderer.php:228: Unhandled exception [0]: syntax error, unexpected 'elseif' (T_ELSEIF).
+[09-Oct-2021 10:01:20 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (9580000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 10:03:21 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (9580000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 10:09:32 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (9580000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 10:28:34 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 10:29:32 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 10:30:00 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 12:52:32 Europe/Berlin] <b>DATABASE ERROR :</b> no debtor trans found for given params<br>sql that failed was : SELECT trans.*,ov_amount+ov_gst+ov_freight+ov_freight_tax+ov_discount AS Total,cust.name AS DebtorName, cust.address, cust.debtor_ref, cust.curr_code, cust.tax_id,
+		trans.prep_amount>0 as prepaid,com.memo_, 0_shippers.shipper_name, 0_sales_types.sales_type, 0_sales_types.tax_included, branch.*, cust.discount, 0_tax_groups.name AS tax_group_name, 0_tax_groups.id AS tax_group_id  FROM 0_debtor_trans trans
+					LEFT JOIN 0_comments com ON trans.type=com.type AND trans.trans_no=com.id
+					LEFT JOIN 0_shippers ON 0_shippers.shipper_id=trans.ship_via, 
+					0_debtors_master cust, 0_sales_types, 0_cust_branch branch, 0_tax_groups  WHERE trans.trans_no='2'
+		AND trans.type='13'
+		AND trans.debtor_no=cust.debtor_no AND 0_sales_types.id = trans.tpe
+			AND branch.branch_code = trans.branch_code
+			AND branch.tax_group_id = 0_tax_groups.id <br><br><br>
+[09-Oct-2021 13:08:17 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:09:07 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:09:26 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:11:11 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:12:47 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (35000000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:16:12 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:19:13 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 13:20:52 Europe/Berlin] <b>DATABASE ERROR :</b> A customer allocation could not be added to the database<br>error code : 1364<br>error message : Field 'id' doesn't have a default value<br>sql that failed was : INSERT INTO 0_cust_allocations (
+		amt, date_alloc,
+		trans_type_from, trans_no_from, trans_no_to, trans_type_to, person_id)
+		VALUES (17500000, '2021-10-09', '12', '1', '1', '10', '1')<br><br><br>
+[09-Oct-2021 14:10:34 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging','','1 KG','M','40000','15000','15000','15103','15103','0','0','0','0')<br><br><br>
+[09-Oct-2021 14:11:27 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging','','1 KG','M','40000','15100','15100','15103','15103','0','0','0','0')<br><br><br>
+[09-Oct-2021 14:13:02 Europe/Berlin] <b>DATABASE ERROR :</b> an item category could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_stock_category`.`dflt_tax_type` at row 1<br>sql that failed was : INSERT INTO 0_stock_category (description, dflt_tax_type,
+			dflt_units, dflt_mb_flag, dflt_sales_act, dflt_cogs_act, 
+			dflt_inventory_act, dflt_adjustment_act, dflt_wip_act, 
+			dflt_dim1, dflt_dim2, dflt_no_sale, dflt_no_purchase)
+		VALUES ('Daging','','1 BOTOL','M','11000','11000','11000','11000','11000','0','0','0','0')<br><br><br>
+[10-Oct-2021 05:54:59 Europe/Berlin] <b>DATABASE ERROR :</b> The supplier could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_suppliers`.`payment_terms` at row 1<br>sql that failed was : INSERT INTO 0_suppliers (supp_name, supp_ref, address, supp_address, gst_no, website,
+		supp_account_no, bank_account, credit_limit, dimension_id, dimension2_id, curr_code,
+		payment_terms, payable_account, purchase_account, payment_discount_account, notes, 
+		tax_group_id, tax_included)
+		VALUES ('1001', 'PT. UNILEVER INDONESIA TBK', '', '', '', 'https://unilever.co.id', '', '', 0, '0', '0', 'IDR', '', '15000', '15000', '15000', '', '1', '0')<br><br><br>
+[10-Oct-2021 05:55:34 Europe/Berlin] <b>DATABASE ERROR :</b> The supplier could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_suppliers`.`payment_terms` at row 1<br>sql that failed was : INSERT INTO 0_suppliers (supp_name, supp_ref, address, supp_address, gst_no, website,
+		supp_account_no, bank_account, credit_limit, dimension_id, dimension2_id, curr_code,
+		payment_terms, payable_account, purchase_account, payment_discount_account, notes, 
+		tax_group_id, tax_included)
+		VALUES ('1001', 'PT. UNILEVER INDONESIA TBK', '', '', '', '', '', '', 0, '0', '0', 'IDR', '', '15000', '', '11010', '', '1', '0')<br><br><br>
+[10-Oct-2021 05:56:11 Europe/Berlin] <b>DATABASE ERROR :</b> The supplier could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_suppliers`.`payment_terms` at row 1<br>sql that failed was : INSERT INTO 0_suppliers (supp_name, supp_ref, address, supp_address, gst_no, website,
+		supp_account_no, bank_account, credit_limit, dimension_id, dimension2_id, curr_code,
+		payment_terms, payable_account, purchase_account, payment_discount_account, notes, 
+		tax_group_id, tax_included)
+		VALUES ('1001', 'PT. UNILEVER INDONESIA TBK', '', '', '', '', '', '', 0, '0', '0', 'IDR', '', '15000', '', '11010', '', '1', '0')<br><br><br>
+[10-Oct-2021 06:01:38 Europe/Berlin] <b>DATABASE ERROR :</b> The supplier could not be added<br>error code : 1366<br>error message : Incorrect integer value: '' for column `surgana`.`0_suppliers`.`payment_terms` at row 1<br>sql that failed was : INSERT INTO 0_suppliers (supp_name, supp_ref, address, supp_address, gst_no, website,
+		supp_account_no, bank_account, credit_limit, dimension_id, dimension2_id, curr_code,
+		payment_terms, payable_account, purchase_account, payment_discount_account, notes, 
+		tax_group_id, tax_included)
+		VALUES ('1001', 'PT. UNILEVER INDONESIA TBK', '', '', '', '', '', '', 0, '0', '0', 'IDR', '', '15000', '15000', '15000', '', '1', '0')<br><br><br>
+[11-Oct-2021 03:40:02 Europe/Berlin] <b>DATABASE ERROR :</b> could not retreive the account name for 5780<br>sql that failed was : SELECT account_name from 0_chart_master WHERE account_code='5780'<br><br><br>
+[11-Oct-2021 03:40:27 Europe/Berlin] <b>DATABASE ERROR :</b> could not retreive the account name for 5780<br>sql that failed was : SELECT account_name from 0_chart_master WHERE account_code='5780'<br><br><br>
+[11-Oct-2021 04:10:03 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:03 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:06 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:06 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:26 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:26 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:39 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:10:39 Europe/Berlin] 0:administrator:gl_db_rates.inc:145: file_get_contents(https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[11-Oct-2021 04:12:43 Europe/Berlin] <b>DATABASE ERROR :</b> could not retreive the account name for 4010<br>sql that failed was : SELECT account_name from 0_chart_master WHERE account_code='4010'<br><br><br>
+[11-Oct-2021 04:12:54 Europe/Berlin] <b>DATABASE ERROR :</b> could not retreive the account name for 4010<br>sql that failed was : SELECT account_name from 0_chart_master WHERE account_code='4010'<br><br><br>
+[11-Oct-2021 05:05:25 Europe/Berlin] <b>DATABASE ERROR :</b> could not retreive the account name for 5780<br>sql that failed was : SELECT account_name from 0_chart_master WHERE account_code='5780'<br><br><br>
+[11-Oct-2021 10:41:47 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 10:41:55 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 10:42:09 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 13:40:50 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 13:42:34 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 13:43:50 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 13:43:53 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 13:43:56 Europe/Berlin] 0:administrator:frontaccounting.php:83: Unhandled exception [0]: Class 'dimensions_app' not found.
+[11-Oct-2021 14:18:46 Europe/Berlin] <b>DATABASE ERROR :</b> The fixed asset class could not be added<br>error code : 1366<br>error message : Incorrect double value: '' for column `surgana`.`0_stock_fa_class`.`depreciation_rate` at row 1<br>sql that failed was : INSERT INTO 0_stock_fa_class (fa_class_id, parent_id, description, long_description,
+     depreciation_rate) VALUES ('001', '001', 'Mobil', 'kendaraan roda 4', '')<br><br><br>
+[11-Oct-2021 14:41:35 Europe/Berlin] <b>DATABASE ERROR :</b> duplicate debtor transactions found for given params<br>sql that failed was : SELECT trans.*,ov_amount+ov_gst+ov_freight+ov_freight_tax+ov_discount AS Total,cust.name AS DebtorName, cust.address, cust.debtor_ref, cust.curr_code, cust.tax_id,
+		trans.prep_amount>0 as prepaid,com.memo_,bank_act,0_bank_accounts.bank_name, 0_bank_accounts.bank_account_name,
+			0_bank_accounts.account_type AS BankTransType,
+			0_bank_accounts.bank_curr_code,
+			0_bank_trans.amount as bank_amount FROM 0_debtor_trans trans
+					LEFT JOIN 0_comments com ON trans.type=com.type AND trans.trans_no=com.id
+					LEFT JOIN 0_shippers ON 0_shippers.shipper_id=trans.ship_via, 
+					0_debtors_master cust, 0_bank_trans, 0_bank_accounts WHERE trans.trans_no='1'
+		AND trans.type='12'
+		AND trans.debtor_no=cust.debtor_no AND 0_bank_trans.trans_no ='1'
+			AND 0_bank_trans.type=12
+			AND 0_bank_trans.amount != 0
+			AND 0_bank_accounts.id=0_bank_trans.bank_act <br><br><br>
+[12-Oct-2021 09:03:36 Europe/Berlin] 0:administrator:dashboard.inc:456: Unhandled exception [0]: Call to undefined function headers().
+[12-Oct-2021 09:03:52 Europe/Berlin] 0:administrator:dashboard.inc:190: Unhandled exception [0]: Call to undefined function table().
+[12-Oct-2021 09:09:07 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[12-Oct-2021 09:09:29 Europe/Berlin] 0:administrator:dashboard.inc:161: Unhandled exception [0]: Call to undefined function td().
+[12-Oct-2021 09:09:59 Europe/Berlin] 0:administrator:dashboard.inc:240: Unhandled exception [0]: Call to undefined function table().
+[12-Oct-2021 09:10:15 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[12-Oct-2021 09:10:49 Europe/Berlin] 0:administrator:dashboard.inc:240: Unhandled exception [0]: Call to undefined function table().
+[12-Oct-2021 09:11:26 Europe/Berlin] 0:administrator:dashboard.inc:240: Unhandled exception [0]: Call to undefined function table().
+[12-Oct-2021 09:11:34 Europe/Berlin] 0:administrator:dashboard.inc:240: Unhandled exception [0]: Call to undefined function table().
+[12-Oct-2021 09:12:53 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[12-Oct-2021 09:19:41 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[12-Oct-2021 09:20:34 Europe/Berlin] 0:administrator:dashboard.inc:183: Unhandled exception [0]: syntax error, unexpected '<'.
+[12-Oct-2021 09:22:34 Europe/Berlin] 0:administrator:dashboard.php:35: Unhandled exception [0]: Call to undefined function dashboard().
+[12-Oct-2021 09:54:32 Europe/Berlin] 0:administrator:renderer.php:7: Invalid argument supplied for foreach()
+[12-Oct-2021 09:54:32 Europe/Berlin] 0:administrator:renderer.php:134: Invalid argument supplied for foreach()
+[12-Oct-2021 09:56:07 Europe/Berlin] 0:administrator:renderer.php:7: Invalid argument supplied for foreach()
+[12-Oct-2021 09:56:07 Europe/Berlin] 0:administrator:renderer.php:134: Invalid argument supplied for foreach()
+[12-Oct-2021 09:56:22 Europe/Berlin] 0:administrator:session.inc:586: Unhandled exception [0]: Class 'front_accounting' not found.
+[12-Oct-2021 09:59:17 Europe/Berlin] 0:administrator:session.inc:586: Unhandled exception [0]: Class 'front_accounting' not found.
+[12-Oct-2021 09:59:21 Europe/Berlin] 0:administrator:session.inc:586: Unhandled exception [0]: Class 'front_accounting' not found.
+[12-Oct-2021 10:01:17 Europe/Berlin] 0:administrator:renderer.php:7: Invalid argument supplied for foreach()
+[12-Oct-2021 10:01:17 Europe/Berlin] 0:administrator:renderer.php:134: Invalid argument supplied for foreach()
+[12-Oct-2021 10:01:38 Europe/Berlin] 0:administrator:renderer.php:7: Invalid argument supplied for foreach()
+[12-Oct-2021 10:01:38 Europe/Berlin] 0:administrator:renderer.php:134: Invalid argument supplied for foreach()
+[12-Oct-2021 10:03:26 Europe/Berlin] 0:administrator:renderer.php:7: Invalid argument supplied for foreach()
+[12-Oct-2021 10:03:26 Europe/Berlin] 0:administrator:renderer.php:134: Invalid argument supplied for foreach()
+[12-Oct-2021 10:25:13 Europe/Berlin] 0:administrator:packages.inc:302: file_get_contents(../FA.pem): failed to open stream: No such file or directory
+[12-Oct-2021 10:25:13 Europe/Berlin] 0:administrator:packages.inc:307: openssl_verify(): supplied key param cannot be coerced into a public key
+[12-Oct-2021 10:25:30 Europe/Berlin] 0:administrator:packages.inc:302: file_get_contents(../FA.pem): failed to open stream: No such file or directory
+[12-Oct-2021 10:25:30 Europe/Berlin] 0:administrator:packages.inc:307: openssl_verify(): supplied key param cannot be coerced into a public key
+[12-Oct-2021 10:25:32 Europe/Berlin] 0:administrator:packages.inc:302: file_get_contents(../FA.pem): failed to open stream: No such file or directory
+[12-Oct-2021 10:25:32 Europe/Berlin] 0:administrator:packages.inc:307: openssl_verify(): supplied key param cannot be coerced into a public key
+[12-Oct-2021 12:14:55 Europe/Berlin] 0:administrator:version.php:25:[before upgrade] Unhandled exception [0]: syntax error, unexpected ')', expecting end of file.
